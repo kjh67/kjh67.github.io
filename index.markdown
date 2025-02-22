@@ -6,4 +6,11 @@ layout: home
 title: Home
 ---
 
-Website coming soon!
+## Ringing Pages
+
+[Coursing Order Trainer](coursing_orders.html)
+
+
+## Other Pages
+
+Coming soon!

@@ -1,0 +1,38 @@
+---
+permalink: /coursing_orders.html
+layout: page
+---
+
+<style type="text/css" media="screen">
+    .container {
+      margin: 10px auto;
+      max-width: 600px;
+      text-align: center;
+    }
+    h1 {
+      margin: 30px 0;
+      font-size: 2em;
+      line-height: 1;
+      letter-spacing: -1px;
+    }
+  </style>
+<body>
+    <div class="container">
+        <h1>Coursing Order Training</h1>
+        
+        <p>For an excellent introduction to Coursing Orders, see John Heaton's article
+            <a href="https://www.treblesgoing.org.uk/understandcoursingorder.html">here</a>.</p>
+        <p>Transpose the coursing order as calls are made; after the first call, the
+            current coursing order will be hidden (click 'Show' to unhide). (For now,)
+            You are assumed to be ringing major, with no tenor-affecting calls made and
+            these bells omitted from the coursing order.</p>
+        <br>
+        <div>
+            <p>Current coursing order: <span id="co_display">53246</span></p>
+            <p>Next call: <span id="call_display"></span></p>
+            <p>Enter new coursing order: <input id="input"></p>
+            <button id="submit">Submit</button>
+        </div>
+    </div>
+    <script src="/pages/scripts/coursing_order_tester.js"></script>
+</body>
