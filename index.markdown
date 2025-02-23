@@ -6,11 +6,15 @@ layout: home
 title: Home
 ---
 
+**Welcome to my website!**
+Here, you'll mostly find pages about English-style change ringing. I hope you find it interesting/useful!
+
+
 ## Ringing Pages
 
-[Coursing Order Trainer](coursing_orders.html)
+[Coursing Order Trainer](coursing_orders)
 
 
 ## Other Pages
 
-Coming soon!
+Coming soon! Maybe
