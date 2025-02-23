@@ -1,5 +1,5 @@
 ---
-permalink: /coursing_orders.html
+permalink: /coursing_orders
 layout: content-page
 title: Coursing Order Trainer
 ---
@@ -11,16 +11,9 @@ title: Coursing Order Trainer
         <p>Transpose the coursing order as calls are made; after the first call, the
             current coursing order will be hidden (click 'Show' to unhide). (For now,)
             You are assumed to be ringing major, with no tenor-affecting calls made and
-            these bells omitted from the coursing order.</p>
+            the tenors omitted from the coursing order.</p>
         <br>
-        <div>
-            <p>Current coursing order: <span id="co_display">53246</span></p>
-            <p>Next call: <span id="call_display"></span></p>
-            <p>Enter new coursing order: <input id="input"></p>
-            <button id="submit">Submit</button>
-            <p id="feedback"></p>
-        </div>
-        <!-- TODO: allow the user to restart from a plain course -->
+        <div id="game_container"></div>
     </div>
     <script src="/pages/scripts/coursing_order_tester.js"></script>
 </body>
