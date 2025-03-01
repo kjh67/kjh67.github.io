@@ -70,16 +70,18 @@ function conductingRequired() {
     let plain_co = "8753246";
     wrongun = Math.floor(Math.random()*6)+2;
     your_pb = Math.floor(Math.random()*7)+2;
+    your_suffix = your_pb === 2 ? "nds" : (your_pb === 3 ? "rds" : "ths");
     full_co = "87"+co;
     offset = full_co.indexOf(wrongun);
     their_pb = plain_co[(plain_co.indexOf(your_pb)+offset)%plain_co.length];
+    their_suffix = their_pb === 2 ? "nds" : (your_pb === 3 ? "rds" : "ths");
     user_answer = prompt("Oh no! The "+wrongun+" went wrong!!! You are the tenor ringing "
-        +your_pb+"th place bell. What place bell should the "+wrongun+" be?");
+        +your_pb+your_suffix+" place bell. What place bell should the "+wrongun+" be?");
     if (user_answer === their_pb) {
         alert("Correct!");
     } else {
         alert("Incorrect. The coursing order is "+full_co+", so if you are "+your_pb
-            +"th place bell, the "+wrongun+" would be "+their_pb+"th place bell.");
+            +your_suffix+" place bell, the "+wrongun+" would be "+their_pb+their_suffix+" place bell.");
     }
 }
 
