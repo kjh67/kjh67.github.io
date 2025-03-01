@@ -12,7 +12,9 @@ Here, you'll mostly find pages about English-style change ringing. I hope you fi
 
 ## Ringing Pages
 
-[Coursing Order Trainer](coursing_orders)
+<!-- [Coursing Orders Explained](coursing_orders) -->
+
+[Coursing Order Trainer](coursing_order_trainer)
 
 
 ## Other Pages
