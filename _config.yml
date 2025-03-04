@@ -35,6 +35,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
+minima:
+  show_excerpts: true
+
 
 # Google Analytics site tag
 google_analytics: G-F1E9BT7YLB
