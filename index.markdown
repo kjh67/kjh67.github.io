@@ -16,6 +16,8 @@ Here, you'll mostly find pages about English-style change ringing. I hope you fi
 
 [Coursing Order Trainer](coursing-order-trainer)
 
+[Magic Blocks Practice](magic-blocks-practice)
+
 
 ## Other Pages
 
