@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Coursing Orders
-permalink: /coursing_orders
+permalink: /coursing-orders
 ---
 
-[Coursing Order Trainer](coursing_order_trainer)
+[Coursing Order Trainer](coursing-order-trainer)
 
 For a more in-depth explanation of coursing orders (as well as a few other tangent topics), see the excellent article by John Heaton [here]("https://www.treblesgoing.org.uk/understandcoursingorder.html").
 
