@@ -17,7 +17,7 @@ let going = false;
 let timer;
 
 // Fixed array of noise options - high, low, nothing (null)
-let noise_files = ["assets/audio/tick.wav", "assets/audio/tock.wav"];
+let noise_files = ["assets/audio/tick.mp3", "assets/audio/tock.mp3"];
 
 // Inter-bell gap in milliseconds
 // 190 is approx GSM speed
