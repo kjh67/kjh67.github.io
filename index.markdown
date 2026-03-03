@@ -16,6 +16,8 @@ Here, you'll mostly find pages about English-style change ringing. I hope you fi
 
 [Coursing Order Trainer](coursing-order-trainer)
 
+[Ringing Metronome](ringing-metronome)
+
 
 ## Other Pages
 
