@@ -18,6 +18,8 @@ Here, you'll mostly find pages about English-style change ringing. I hope you fi
 
 [Magic Blocks Practice](magic-blocks-practice)
 
+[Ringing Metronome](ringing-metronome)
+
 
 ## Other Pages
 
